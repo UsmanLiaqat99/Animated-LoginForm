@@ -1,3 +1,3 @@
 # Animated-LoginForm
 
-Live at: https://animated-loginform.web.app/
+Live: https://animated-loginform.web.app/
